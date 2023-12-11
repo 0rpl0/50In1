@@ -7,9 +7,9 @@
 ## ✏ Authors
 
 - Scripts: [@0rpl0](https://github.com/0rpl0)
-- Graphics: [@0rpl0](https://github.com/0rpl0)
-- Music: [@0rpl0](https://github.com/0rpl0)
-- Models: [@0rpl0](https://github.com/0rpl0) & [UnityAssetStore](https://assetstore.unity.com/)
+- Graphics: [@0rpl0](https://github.com/0rpl0) & [UnityAssetStore](https://assetstore.unity.com/)
+- Music: [@0rpl0](https://github.com/0rpl0) 
+
 
 
 ## 📷 Screenshots
@@ -21,11 +21,10 @@
 
 - Ukończyć wszystkie 50 gier.
 - Ukończyć interfejs.
+- Dokończyć grafiki.
 
 
 ## 📲 Installation
-
-
 
 ```bash
   soon
@@ -48,5 +47,5 @@ Support znajduje się na naszym [Discord](https://github.com/matiassingers/aweso
 
 Lista moich innych projektów:
 
-- [3D Miner Simulator](https://github.com/matiassingers/awesome-readme)
+- [3D Miner Simulator](https://github.com/0rpl0)
 
