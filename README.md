@@ -4,15 +4,15 @@
 50-in-1 to zbiór 50 prostych i fascynujących gier dostępnych w jednej aplikacji na Androida. Ciesz się różnorodnymi doświadczeniami, od klasycznych arkad po łamigłówki i wiele więcej. Intuicyjny interfejs umożliwia łatwe poruszanie się między grami, zapewniając dostęp do rozrywki na wyciągnięcie ręki - idealne na chwile przerw czy podróże.
 
 
-## ✏ Authors
+## ✏ Autorzy
 
-- Scripts: [@0rpl0](https://github.com/0rpl0)
-- Graphics: [@0rpl0](https://github.com/0rpl0) & [UnityAssetStore](https://assetstore.unity.com/)
-- Music: [@0rpl0](https://github.com/0rpl0) 
+- Skrypty: [@0rpl0](https://github.com/0rpl0)
+- Grafika: [@0rpl0](https://github.com/0rpl0) & [UnityAssetStore](https://assetstore.unity.com/)
+- Muzyka: [@0rpl0](https://github.com/0rpl0) 
 
 
 
-## 📷 Screenshots
+## 📷 Screenshoty
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
