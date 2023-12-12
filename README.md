@@ -29,7 +29,7 @@ Planowana data zakończenia: 2 kwartał 2024 roku.
 Planowana data publikacji: 3 kwartał 2024 roku.
 
 
-## 📲 Installation
+## 📲 Instalacja
 
 ```bash
   soon
