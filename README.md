@@ -14,7 +14,10 @@
 
 ## 📷 Screenshoty
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://media.discordapp.net/attachments/1184198760667025538/1184199972808302692/image.png?ex=658b1b2a&is=6578a62a&hm=f298727397a548691b1f6676bf409e81fd636102cf556f486e0b4a174124dfdf&=&format=webp&quality=lossless)
+![App Screenshot](https://media.discordapp.net/attachments/1184198760667025538/1184200225984880710/image.png?ex=658b1b67&is=6578a667&hm=43d6ad006590c6cb7dca1304087d22474c5fdac89b266fb45a15bf66b8150439&=&format=webp&quality=lossless)
+![App Screenshot](https://media.discordapp.net/attachments/1184198760667025538/1184200739871006740/image.png?ex=658b1be1&is=6578a6e1&hm=29acb7856d6afd1e86c1af48ba565891bf3a039fdd65d8b9c8057bf9e7b53c5a&=&format=webp&quality=lossless)
+
 
 
 ## 🛠 Do zrobienia:
