@@ -47,5 +47,5 @@ Support znajduje się na naszym [Discord](https://discord.gg/cNANdp53nN).
 
 Lista moich innych projektów:
 
-- [3D Miner Simulator](https://github.com/0rpl0)
+- [3D Miner Simulator](https://github.com/0rpl0/3D-Miner-Simulator)
 
