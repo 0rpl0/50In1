@@ -32,15 +32,15 @@
     
 ## 💙 Support
 
-Support znajduje się na naszym [Discord](https://github.com/matiassingers/awesome-readme) albo 50in1@gmail.com
+Support znajduje się na naszym [Discord](https://discord.gg/cNANdp53nN).
 
 
 ## 🔗 Linki
-[![discord](https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=blue)](https://www.discord.gg/)
+[![discord](https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=blue)](https://discord.gg/cNANdp53nN)
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
-[![twitter](https://img.shields.io/badge/tiktok-FF0000?style=for-the-badge&logo=tiktok&logoColor=black)](https://twitter.com/)
+[![tiktok](https://img.shields.io/badge/tiktok-FF0000?style=for-the-badge&logo=tiktok&logoColor=black)](https://tiktok.com/)
 
 
 ## 💼 Inne projekty
